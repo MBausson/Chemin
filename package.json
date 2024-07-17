@@ -3,6 +3,9 @@
 	"displayName": "Chemin",
 	"publisher": "MBausson",
 	"description": "Chemin is a lightweight extension that aims to facilitate navigations in Rails files.",
+	"repository": {
+		"url": "https://github.com/MBausson/Chemin"
+	},
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.91.0"
