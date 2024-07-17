@@ -1,7 +1,8 @@
 {
 	"name": "chemin",
 	"displayName": "Chemin",
-	"description": "",
+	"publisher": "MBausson",
+	"description": "Chemin is a lightweight extension that aims to facilitate navigations in Rails files.",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.91.0"
